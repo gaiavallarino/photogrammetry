@@ -1,0 +1,329 @@
+
+Status Report Tree
+   Project Name: provagiusta.pmr
+   Problems and Suggestions (1)
+      Project Problems (1)
+         The total photo area covered by points is 77%, which is
+less than the recommended 80%.
+            Try to take photos of the calibration grid so that marked points fill as much of the photo frame as possible. Also move the grid around the frame so overall there is good coverage across all photos. This will result in a better calibration as more of the lens will be calibrated to account for variability throughout the lens.
+      Problems related to most recent processing (0)
+   Information from most recent processing
+      Last Processing Attempt: Fri Oct 21 13:48:23 2022
+      Version: PhotoModeler 2022.2.0.127 (64-bit)
+      Status: successful
+      Processing Options
+         Orientation: off
+         Global Optimization: on
+         Calibration: on (full calibration)
+         Constraints: off
+      Total Error
+         Number of Processing Iterations: 2
+         Number of Processing Stages: 2
+         First Error: 3.436
+         Last Error: 3.436
+      Precisions / Standard Deviations
+         Camera Calibration Standard Deviations
+            Camera1: NIKON D3100 [35.00]
+               Focal Length
+                    Value: 36.306786 mm
+                    Deviation: Focal: 0.020 mm  
+               Xp - principal point x
+                    Value: 12.137051 mm
+                    Deviation: Xp: 0.008 mm  
+               Yp - principal point y
+                    Value: 8.172385 mm
+                    Deviation: Yp: 0.007 mm  
+               Fw - format width
+                    Value: 24.283223 mm
+                    Deviation: Fw: 0.006 mm  
+               Fh - format height
+                    Value: 16.153846 mm
+               K1 - radial distortion 1
+                    Value: -5.690e-05
+                    Deviation: K1: 1.9e-06     
+               K2 - radial distortion 2
+                    Value: -1.782e-07
+                    Deviation: K2: 1.1e-08     
+               K3 - radial distortion 3
+                    Value: 0.000e+00
+               P1 - decentering distortion 1
+                    Value: 0.000e+00
+               P2 - decentering distortion 2
+                    Value: 0.000e+00
+         Photograph Standard Deviations
+            Photo 1: _dsc0400.jpg
+               Omega
+                    Value: 52.558373 deg
+                    Deviation: Omega: 0.021 deg
+               Phi
+                    Value: -5.909984 deg
+                    Deviation: Phi: 0.016 deg
+               Kappa
+                    Value: -89.163424 deg
+                    Deviation: Kappa: 0.007 deg
+               Xc
+                    Value: 0.115136 
+                    Deviation: X: 9.6e-04 
+               Yc
+                    Value: -2.314738 
+                    Deviation: Y: 0.001 
+               Zc
+                    Value: 2.911693 
+                    Deviation: Z: 0.002 
+            Photo 4: _dsc0405.jpg
+               Omega
+                    Value: -32.035481 deg
+                    Deviation: Omega: 0.021 deg
+               Phi
+                    Value: 12.825372 deg
+                    Deviation: Phi: 0.018 deg
+               Kappa
+                    Value: -176.692543 deg
+                    Deviation: Kappa: 0.005 deg
+               Xc
+                    Value: 1.137889 
+                    Deviation: X: 0.001 
+               Yc
+                    Value: 2.184533 
+                    Deviation: Y: 0.001 
+               Zc
+                    Value: 2.642741 
+                    Deviation: Z: 0.001 
+            Photo 5: _dsc0407.jpg
+               Omega
+                    Value: -41.833512 deg
+                    Deviation: Omega: 0.022 deg
+               Phi
+                    Value: 6.500748 deg
+                    Deviation: Phi: 0.022 deg
+               Kappa
+                    Value: -88.385337 deg
+                    Deviation: Kappa: 0.008 deg
+               Xc
+                    Value: 0.917597 
+                    Deviation: X: 0.001 
+               Yc
+                    Value: 2.720211 
+                    Deviation: Y: 0.001 
+               Zc
+                    Value: 3.143694 
+                    Deviation: Z: 0.002 
+            Photo 6: _dsc0408.jpg
+               Omega
+                    Value: -42.570732 deg
+                    Deviation: Omega: 0.022 deg
+               Phi
+                    Value: 6.250828 deg
+                    Deviation: Phi: 0.022 deg
+               Kappa
+                    Value: -89.743762 deg
+                    Deviation: Kappa: 0.008 deg
+               Xc
+                    Value: 0.935006 
+                    Deviation: X: 0.001 
+               Yc
+                    Value: 2.778905 
+                    Deviation: Y: 0.001 
+               Zc
+                    Value: 3.241178 
+                    Deviation: Z: 0.002 
+            Photo 7: _dsc0409.jpg
+               Omega
+                    Value: 0.027175 deg
+                    Deviation: Omega: 0.022 deg
+               Phi
+                    Value: -38.820597 deg
+                    Deviation: Phi: 0.021 deg
+               Kappa
+                    Value: -91.059863 deg
+                    Deviation: Kappa: 0.011 deg
+               Xc
+                    Value: -1.434900 
+                    Deviation: X: 0.001 
+               Yc
+                    Value: 0.558211 
+                    Deviation: Y: 7.3e-04 
+               Zc
+                    Value: 2.326462 
+                    Deviation: Z: 0.001 
+            Photo 8: _dsc0410.jpg
+               Omega
+                    Value: 3.482202 deg
+                    Deviation: Omega: 0.025 deg
+               Phi
+                    Value: -43.347572 deg
+                    Deviation: Phi: 0.018 deg
+               Kappa
+                    Value: 1.713287 deg
+                    Deviation: Kappa: 0.012 deg
+               Xc
+                    Value: -1.800686 
+                    Deviation: X: 0.001 
+               Yc
+                    Value: 0.320438 
+                    Deviation: Y: 0.001 
+               Zc
+                    Value: 3.210615 
+                    Deviation: Z: 0.002 
+            Photo 9: _dsc0411.jpg
+               Omega
+                    Value: -8.736989 deg
+                    Deviation: Omega: 0.032 deg
+                    Correlations over  95.0%: Kappa:96.8%
+               Phi
+                    Value: -52.952984 deg
+                    Deviation: Phi: 0.024 deg
+               Kappa
+                    Value: 174.132051 deg
+                    Deviation: Kappa: 0.020 deg
+                    Correlations over  95.0%: Omega:96.8%
+               Xc
+                    Value: -2.258092 
+                    Deviation: X: 0.002 
+               Yc
+                    Value: 0.825886 
+                    Deviation: Y: 9.4e-04 
+               Zc
+                    Value: 2.860612 
+                    Deviation: Z: 0.002 
+            Photo 10: _dsc0412.jpg
+               Omega
+                    Value: -47.233175 deg
+                    Deviation: Omega: 0.020 deg
+               Phi
+                    Value: -10.601275 deg
+                    Deviation: Phi: 0.021 deg
+               Kappa
+                    Value: -92.083233 deg
+                    Deviation: Kappa: 0.008 deg
+               Xc
+                    Value: -0.210029 
+                    Deviation: X: 0.001 
+               Yc
+                    Value: 2.921765 
+                    Deviation: Y: 0.001 
+               Zc
+                    Value: 2.983212 
+                    Deviation: Z: 0.002 
+            Photo 11: _dsc0423.jpg
+               Omega
+                    Value: -29.816022 deg
+                    Deviation: Omega: 0.024 deg
+               Phi
+                    Value: 1.365837 deg
+                    Deviation: Phi: 0.020 deg
+               Kappa
+                    Value: -179.643649 deg
+                    Deviation: Kappa: 0.005 deg
+               Xc
+                    Value: 0.601673 
+                    Deviation: X: 0.001 
+               Yc
+                    Value: 2.077443 
+                    Deviation: Y: 0.001 
+               Zc
+                    Value: 2.599374 
+                    Deviation: Z: 0.001 
+            Photo 12: _dsc0425.jpg
+               Omega
+                    Value: -38.710269 deg
+                    Deviation: Omega: 0.024 deg
+               Phi
+                    Value: 2.323146 deg
+                    Deviation: Phi: 0.024 deg
+               Kappa
+                    Value: -89.880406 deg
+                    Deviation: Kappa: 0.008 deg
+               Xc
+                    Value: 0.623108 
+                    Deviation: X: 0.001 
+               Yc
+                    Value: 2.566592 
+                    Deviation: Y: 0.001 
+               Zc
+                    Value: 3.296813 
+                    Deviation: Z: 0.002 
+            Photo 13: _dsc0427.jpg
+               Omega
+                    Value: -0.779886 deg
+                    Deviation: Omega: 0.022 deg
+               Phi
+                    Value: -36.873597 deg
+                    Deviation: Phi: 0.022 deg
+               Kappa
+                    Value: -89.672466 deg
+                    Deviation: Kappa: 0.011 deg
+               Xc
+                    Value: -1.403106 
+                    Deviation: X: 0.001 
+               Yc
+                    Value: 0.504450 
+                    Deviation: Y: 8.0e-04 
+               Zc
+                    Value: 2.429622 
+                    Deviation: Z: 0.001 
+            Photo 14: _dsc0429.jpg
+               Omega
+                    Value: -4.158500 deg
+                    Deviation: Omega: 0.031 deg
+                    Correlations over  95.0%: Kappa:95.3%
+               Phi
+                    Value: -45.399618 deg
+                    Deviation: Phi: 0.028 deg
+               Kappa
+                    Value: 178.575790 deg
+                    Deviation: Kappa: 0.016 deg
+                    Correlations over  95.0%: Omega:95.3%
+               Xc
+                    Value: -1.934413 
+                    Deviation: X: 0.001 
+               Yc
+                    Value: 0.678434 
+                    Deviation: Y: 0.001 
+               Zc
+                    Value: 3.182533 
+                    Deviation: Z: 0.002 
+   Quality
+      Photographs
+         Total Number: 14
+            Bad Photos: 2
+            Weak Photos: 0
+            OK Photos: 12
+         Number Oriented: 12
+         Number with inverse camera flags set: 0
+      Cameras
+         Camera1: NIKON D3100 [35.00]
+            Calibration: yes (Single Sheet Calibration)
+            Number of photos using camera: 14
+            Average Photo Point Coverage: 77%
+      Photo Coverage
+         Referenced points outside of the camera's calibrated coverage region:
+            Referenced points outside of the camera's calibrated coverage region:
+      Point Marking Residuals
+         Overall RMS: 0.451 pixels
+         Maximum: 1.505 pixels
+            Point 49 on Photo 11
+         Minimum: 0.344 pixels
+            Point 56 on Photo 14
+         Maximum RMS: 0.926 pixels
+            Point 12
+         Minimum RMS: 0.190 pixels
+            Point 56
+      Point Precisions
+         Overall RMS Vector Length: 0.000184 
+         Maximum Vector Length: 0.000214 
+            Point 3
+         Minimum Vector Length: 0.000169 
+            Point 81
+         Maximum X: 0.000118 
+         Maximum Y: 0.000121 
+         Maximum Z: 0.000145 
+         Minimum X: 7.87e-05 
+         Minimum Y: 7.95e-05 
+         Minimum Z: 0.000123 
+      Point Angles
+         Maximum: 83.28 degrees
+            Point 85
+         Minimum: 77.63 degrees
+            Point 12
+         Average: 81.33 degrees

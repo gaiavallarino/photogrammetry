@@ -1,0 +1,9 @@
+Dati immagine raddrizzata:  C:\Users\UTENTE\Desktop\Photo lab\Lab3\correctedimage1.bmp
+coordinate spigolo alto sinistro:  -5.375 ; 11.295
+coordinate spigolo alto destro:  15.787 ; 11.295
+coordinate spigolo basso destro:  15.787 ; -1.723
+coordinate spigolo basso sinistro:  -5.375 ; -1.723
+dimensione immagine raddrizzata (pixel):  2116 x 1302
+dimensione immagine raddrizzata (cm):  21,162 x 13,018
+risoluzione (dpi):  254,000
+dimensione pixel (m):  0.01

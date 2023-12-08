@@ -1,0 +1,263 @@
+
+Status Report Tree
+   Project Name: testgiusto.pmr
+   Problems and Suggestions (0)
+      Project Problems (0)
+      Problems related to most recent processing (0)
+   Information from most recent processing
+      Last Processing Attempt: Thu Oct 27 10:48:51 2022
+      Version: PhotoModeler 2022.2.0.127 (64-bit)
+      Status: successful
+      Processing Options
+         Orientation: off
+         Global Optimization: on
+         Calibration: off
+         Constraints: off
+      Total Error
+         Number of Processing Iterations: 1
+         Number of Processing Stages: 1
+         First Error: 0.817
+         Last Error: 0.817
+      Precisions / Standard Deviations
+         Photograph Standard Deviations
+            Photo 1: _dsc0413.jpg
+               Omega
+                    Value: -0.379279 deg
+                    Deviation: Omega: 0.035 deg
+                    Correlations over  95.0%: Y:-99.8%
+               Phi
+                    Value: 0.050771 deg
+                    Deviation: Phi: 0.032 deg
+                    Correlations over  95.0%: X:99.8%
+               Kappa
+                    Value: -0.096354 deg
+                    Deviation: Kappa: 0.021 deg
+               Xc
+                    Value: 0.001328 
+                    Deviation: X: 5.2e-04 
+                    Correlations over  95.0%: Phi:99.8%
+               Yc
+                    Value: 0.007444 
+                    Deviation: Y: 5.7e-04 
+                    Correlations over  95.0%: Omega:-99.8%
+               Zc
+                    Value: 0.008822 
+                    Deviation: Z: 3.8e-04 
+            Photo 2: _dsc0414.jpg
+               Omega
+                    Value: -0.151760 deg
+                    Deviation: Omega: 0.036 deg
+                    Correlations over  95.0%: Y:-99.8%
+               Phi
+                    Value: 0.844755 deg
+                    Deviation: Phi: 0.030 deg
+                    Correlations over  95.0%: X:99.7%
+               Kappa
+                    Value: 0.919467 deg
+                    Deviation: Kappa: 0.019 deg
+               Xc
+                    Value: 0.008969 
+                    Deviation: X: 4.2e-04 
+                    Correlations over  95.0%: Phi:99.7%
+               Yc
+                    Value: -0.014694 
+                    Deviation: Y: 5.0e-04 
+                    Correlations over  95.0%: Omega:-99.8%
+               Zc
+                    Value: -0.115951 
+                    Deviation: Z: 3.1e-04 
+            Photo 3: _dsc0415.jpg
+               Omega
+                    Value: -63.906154 deg
+                    Deviation: Omega: 0.050 deg
+               Phi
+                    Value: 44.891229 deg
+                    Deviation: Phi: 0.039 deg
+               Kappa
+                    Value: 108.338699 deg
+                    Deviation: Kappa: 0.033 deg
+               Xc
+                    Value: 0.663998 
+                    Deviation: X: 3.6e-04 
+               Yc
+                    Value: 0.563887 
+                    Deviation: Y: 5.4e-04 
+               Zc
+                    Value: -0.681323 
+                    Deviation: Z: 5.7e-04 
+            Photo 4: _dsc0416.jpg
+               Omega
+                    Value: -97.968558 deg
+                    Deviation: Omega: 0.036 deg
+                    Correlations over  95.0%: Z:99.2%
+               Phi
+                    Value: 0.862054 deg
+                    Deviation: Phi: 0.034 deg
+                    Correlations over  95.0%: X:99.8%
+               Kappa
+                    Value: 178.214330 deg
+                    Deviation: Kappa: 0.019 deg
+               Xc
+                    Value: 0.037741 
+                    Deviation: X: 5.2e-04 
+                    Correlations over  95.0%: Phi:99.8%
+               Yc
+                    Value: 0.883739 
+                    Deviation: Y: 3.9e-04 
+               Zc
+                    Value: -1.103610 
+                    Deviation: Z: 5.1e-04 
+                    Correlations over  95.0%: Omega:99.2%
+            Photo 5: _dsc0417.jpg
+               Omega
+                    Value: -35.084987 deg
+                    Deviation: Omega: 0.050 deg
+               Phi
+                    Value: -44.467507 deg
+                    Deviation: Phi: 0.040 deg
+               Kappa
+                    Value: -69.427481 deg
+                    Deviation: Kappa: 0.033 deg
+               Xc
+                    Value: -0.637874 
+                    Deviation: X: 3.7e-04 
+               Yc
+                    Value: 0.353377 
+                    Deviation: Y: 5.9e-04 
+               Zc
+                    Value: -0.424747 
+                    Deviation: Z: 5.3e-04 
+            Photo 6: _dsc0418.jpg
+               Omega
+                    Value: -14.279479 deg
+                    Deviation: Omega: 0.035 deg
+                    Correlations over  95.0%: Y:-98.2%
+               Phi
+                    Value: -25.335741 deg
+                    Deviation: Phi: 0.033 deg
+                    Correlations over  95.0%: X:95.3%
+               Kappa
+                    Value: -32.983329 deg
+                    Deviation: Kappa: 0.020 deg
+               Xc
+                    Value: -0.353636 
+                    Deviation: X: 3.9e-04 
+                    Correlations over  95.0%: Phi:95.3%
+               Yc
+                    Value: 0.181744 
+                    Deviation: Y: 4.7e-04 
+                    Correlations over  95.0%: Omega:-98.2%
+               Zc
+                    Value: -0.234041 
+                    Deviation: Z: 3.2e-04 
+            Photo 7: _dsc0419.jpg
+               Omega
+                    Value: -16.599982 deg
+                    Deviation: Omega: 0.047 deg
+                    Correlations over  95.0%: Y:-98.3%
+               Phi
+                    Value: 31.253503 deg
+                    Deviation: Phi: 0.040 deg
+                    Correlations over  95.0%: X:97.3%
+               Kappa
+                    Value: 38.572171 deg
+                    Deviation: Kappa: 0.026 deg
+               Xc
+                    Value: 0.436128 
+                    Deviation: X: 4.9e-04 
+                    Correlations over  95.0%: Phi:97.3%
+               Yc
+                    Value: 0.233923 
+                    Deviation: Y: 5.8e-04 
+                    Correlations over  95.0%: Omega:-98.3%
+               Zc
+                    Value: -0.261592 
+                    Deviation: Z: 3.7e-04 
+            Photo 8: _dsc0420.jpg
+               Omega
+                    Value: -85.946880 deg
+                    Deviation: Omega: 0.035 deg
+                    Correlations over  95.0%: Z:99.6%
+               Phi
+                    Value: 25.868754 deg
+                    Deviation: Phi: 0.033 deg
+               Kappa
+                    Value: 146.322262 deg
+                    Deviation: Kappa: 0.021 deg
+               Xc
+                    Value: 0.382604 
+                    Deviation: X: 3.8e-04 
+               Yc
+                    Value: 0.739429 
+                    Deviation: Y: 3.6e-04 
+               Zc
+                    Value: -0.923155 
+                    Deviation: Z: 4.4e-04 
+                    Correlations over  95.0%: Omega:99.6%
+            Photo 9: _dsc0421.jpg
+               Omega
+                    Value: -94.139843 deg
+                    Deviation: Omega: 0.039 deg
+                    Correlations over  95.0%: Z:99.7%
+               Phi
+                    Value: -27.892061 deg
+                    Deviation: Phi: 0.033 deg
+                    Correlations over  95.0%: X:97.2%
+               Kappa
+                    Value: -143.964682 deg
+                    Deviation: Kappa: 0.024 deg
+               Xc
+                    Value: -0.352910 
+                    Deviation: X: 4.3e-04 
+                    Correlations over  95.0%: Phi:97.2%
+               Yc
+                    Value: 0.745064 
+                    Deviation: Y: 2.9e-04 
+               Zc
+                    Value: -0.990034 
+                    Deviation: Z: 4.8e-04 
+                    Correlations over  95.0%: Omega:99.7%
+   Quality
+      Photographs
+         Total Number: 9
+            Bad Photos: 0
+            Weak Photos: 0
+            OK Photos: 9
+         Number Oriented: 9
+         Number with inverse camera flags set: 0
+      Cameras
+         Camera1: NIKON D3100 [35.00]
+            Calibration: yes (Single Sheet Calibration)
+            Number of photos using camera: 9
+            Average Photo Point Coverage: 79%
+      Photo Coverage
+         Referenced points outside of the camera's calibrated coverage region:
+            Referenced points outside of the camera's calibrated coverage region:
+      Point Marking Residuals
+         Overall RMS: 0.949 pixels
+         Maximum: 2.923 pixels
+            Point 1 on Photo 7
+         Minimum: 0.296 pixels
+            Point 170 on Photo 4
+         Maximum RMS: 1.674 pixels
+            Point 1
+         Minimum RMS: 0.195 pixels
+            Point 170
+      Point Precisions
+         Overall RMS Vector Length: 0.000105 
+         Maximum Vector Length: 0.000133 
+            Point 90
+         Minimum Vector Length: 9.13e-05 
+            Point 122
+         Maximum X: 7.01e-05 
+         Maximum Y: 9.25e-05 
+         Maximum Z: 9.16e-05 
+         Minimum X: 4.87e-05 
+         Minimum Y: 4.87e-05 
+         Minimum Z: 5.6e-05 
+      Point Angles
+         Maximum: 89.99 degrees
+            Point 75
+         Minimum: 86.93 degrees
+            Point 164
+         Average: 89.28 degrees

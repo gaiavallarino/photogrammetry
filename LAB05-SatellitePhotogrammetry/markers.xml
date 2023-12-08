@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="1.5.0">
+  <chunk label="Chunk 1" enabled="true">
+    <sensors next_id="7">
+      <sensor id="0" label="unknown" type="frame">
+        <resolution width="12130" height="12083"/>
+        <property name="layer_index" value="0"/>
+        <bands>
+          <band label="Red"/>
+          <band label="Green"/>
+          <band label="Blue"/>
+          <band/>
+        </bands>
+        <data_type>uint16</data_type>
+      </sensor>
+      <sensor id="1" label="unknown" type="frame">
+        <resolution width="12346" height="12465"/>
+        <property name="layer_index" value="0"/>
+        <bands>
+          <band label="Red"/>
+          <band label="Green"/>
+          <band label="Blue"/>
+          <band/>
+        </bands>
+        <data_type>uint16</data_type>
+      </sensor>
+      <sensor id="2" label="unknown" type="rpc">
+        <resolution width="12130" height="12083"/>
+        <property name="layer_index" value="0"/>
+        <bands>
+          <band label="Red"/>
+          <band label="Green"/>
+          <band label="Blue"/>
+          <band/>
+        </bands>
+        <data_type>uint16</data_type>
+      </sensor>
+      <sensor id="3" label="unknown" type="rpc">
+        <resolution width="12346" height="12465"/>
+        <property name="layer_index" value="0"/>
+        <bands>
+          <band label="Red"/>
+          <band label="Green"/>
+          <band label="Blue"/>
+          <band/>
+        </bands>
+        <data_type>uint16</data_type>
+      </sensor>
+      <sensor id="4" label="unknown" type="rpc">
+        <resolution width="12130" height="12083"/>
+        <property name="layer_index" value="0"/>
+        <bands>
+          <band label="Red"/>
+          <band label="Green"/>
+          <band label="Blue"/>
+          <band/>
+        </bands>
+        <data_type>uint16</data_type>
+      </sensor>
+      <sensor id="5" label="unknown" type="rpc">
+        <resolution width="12130" height="12083"/>
+        <property name="layer_index" value="0"/>
+        <bands>
+          <band label="Red"/>
+          <band label="Green"/>
+          <band label="Blue"/>
+          <band/>
+        </bands>
+        <data_type>uint16</data_type>
+      </sensor>
+      <sensor id="6" label="unknown" type="rpc">
+        <resolution width="12346" height="12465"/>
+        <property name="layer_index" value="0"/>
+        <bands>
+          <band label="Red"/>
+          <band label="Green"/>
+          <band label="Blue"/>
+          <band/>
+        </bands>
+        <data_type>uint16</data_type>
+      </sensor>
+    </sensors>
+    <components next_id="6" active_id="5">
+      <component id="5" label="Component 1">
+        <transform>
+          <rotation locked="true">-1.3760012004484148e-01 -7.1195040804631970e-01 6.8861660119860912e-01 9.9048786310769366e-01 -9.8905262004705646e-02 9.5663693134518474e-02 0 6.9522972148093576e-01 7.1878761422936366e-01</rotation>
+          <translation locked="true">4.4017410833946895e+06 6.1149674220244901e+05 4.5638549742735615e+06</translation>
+          <scale locked="true">1.0000000000000000e+00</scale>
+        </transform>
+        <region>
+          <center>1.0206670683313402e+02 9.6813000896865702e+01 -1.2695017041055344e+02</center>
+          <size>1.0020679296875000e+04 1.1937063476562500e+04 5.5935833984375004e+03</size>
+          <R>-6.1610110493930270e-01 -7.8766707958933280e-01 1.4959355178016581e-05 7.8766707919583479e-01 -6.1610110370894244e-01 4.8577007625220252e-05 -2.9046034495395885e-05 4.1711339672264539e-05 9.9999999870824618e-01</R>
+        </region>
+        <partition>
+          <camera_ids>7 8</camera_ids>
+        </partition>
+      </component>
+    </components>
+    <cameras next_id="9" next_group_id="0">
+      <camera id="7" sensor_id="5" component_id="5" label="001">
+        <transform>1 0 0 0 0 -1.0000000000000000e+00 0 0 0 0 -1.0000000000000000e+00 0 0 0 0 1</transform>
+        <calibration type="rpc">
+          <resolution width="12130" height="12083"/>
+          <f>1.0002143294533132</f>
+          <cx>6.3373781542298699</cx>
+          <cy>1.3949940235544134</cy>
+          <b1>-0.00049919350331883278</b1>
+          <b2>0.0001509241124446486</b2>
+          <object_scale>3.2153738815008214e+03 3.4030899304455866e+03 1.6350000000000000e+03</object_scale>
+          <image_scale>6.0650000000000000e+03 6.0415000000000000e+03</image_scale>
+          <line_num_coeff>-1.2064459169614585e-10 -4.9527194999464084e-02 1.0493294834530507e+00 1.3913121547144902e-01 3.0579619159243641e-04 3.8968535232461932e-05 1.7199807502454628e-04 -1.5597700112307236e-05 5.2258012504184952e-04 1.3618369581652958e-05 -4.1206100252544371e-06 -1.9123268651033905e-07 1.9963345446002018e-06 -8.0198079359567666e-07 3.8468406456143379e-06 1.5956328430876971e-05 4.7087663130471626e-06 7.3820202578435952e-07 3.3455718221231385e-06 6.1192980723444447e-07</line_num_coeff>
+          <line_den_coeff>9.9999959334937949e-01 -4.5831919286533937e-04 4.0632029790789789e-04 -5.1270345870968485e-05 8.0617567924918208e-06 -3.5866633887420327e-06 -5.7778227403637387e-06 3.3061321450964428e-06 -1.2058818056969291e-05 3.8694665215419926e-06 -3.7456055505580595e-08 -2.4772077292507725e-09 -1.8376062395321648e-07 -4.1904040025988687e-09 1.7833266999813286e-08 -1.9295615750561859e-08 -2.3249957309243470e-08 5.9006812375463231e-09 -9.3030560164023311e-08 -1.9258899901123092e-09</line_den_coeff>
+          <samp_num_coeff>1.1799561842114692e-11 1.0016943219404539e+00 1.8995217465623247e-03 8.5034615435123154e-02 3.4843004452328751e-04 -1.2381216409917905e-03 -6.2171641461978319e-04 1.2751370380028651e-03 -2.5553209686120845e-04 -1.9809617895665343e-04 -3.6465594761483543e-07 3.1090890008426800e-06 -1.4951744557840522e-05 5.5790088144421193e-07 -6.5576874815044061e-06 -2.6227886545865587e-05 -7.4838480995462006e-07 -2.6839889924424277e-06 -1.2521563530320538e-05 1.1226029014108203e-07</samp_num_coeff>
+          <samp_den_coeff>1.0000002237660683e+00 5.0745416927575461e-04 -1.3845028366418148e-04 8.4316296038875122e-04 -1.9039627008036093e-06 1.5907047462702043e-06 1.9222607339684009e-06 1.8283379632720715e-06 -1.8262161677827229e-05 -2.1068872321001358e-06 -1.8722697941051021e-08 -3.8003807679765255e-10 9.2102772546134718e-09 -7.1227976030812704e-09 1.4539007470336011e-08 1.0645181397539939e-07 2.8061356442157814e-09 1.3118607247099499e-08 -6.2287356971941695e-09 2.5712073252534318e-09</samp_den_coeff>
+        </calibration>
+        <reference x="415452.19160100992" y="5089567.9065037584" z="2955" yaw="0" pitch="0" roll="0" enabled="true"/>
+      </camera>
+      <camera id="8" sensor_id="6" component_id="5" label="002">
+        <transform>9.9999999997427702e-01 -5.1555367810628756e-06 4.9866330101477420e-06 -3.1875234133249229e+01 -5.1555699047134426e-06 -9.9999999996464894e-01 6.6424980823542867e-06 -4.2321947350943162e+01 4.9865987643282752e-06 -6.6425237909562007e-06 -9.9999999996550537e-01 -1.5000220035653648e+01 0 0 0 1</transform>
+        <calibration type="rpc">
+          <resolution width="12346" height="12465"/>
+          <f>0.99989312978505263</f>
+          <cx>6.4822678866109751</cx>
+          <cy>-0.30797679724050164</cy>
+          <b1>-0.00020229385377298055</b1>
+          <b2>0.00022952219055098259</b2>
+          <object_scale>3.3628953222792820e+03 3.4580887164693472e+03 1.6500000000000000e+03</object_scale>
+          <image_scale>6.1730000000000000e+03 6.2325000000000000e+03</image_scale>
+          <line_num_coeff>4.7978622342138576e-10 5.2039880500869058e-02 1.0520896634730967e+00 -9.1168354673973911e-02 5.6729819913410703e-04 -4.5913639394885222e-05 1.9944646661138656e-04 2.9950307790763454e-05 -7.7213594164463680e-04 -1.1484861805899275e-05 -3.1588916460949320e-06 -1.2518293110134961e-07 -2.5994013293123987e-07 -3.5180862253868241e-07 -2.5983856461993651e-06 -2.8093659415868806e-05 -1.2663236244652322e-05 7.6467170350400021e-08 3.3301521054454878e-06 1.0848022793815886e-06</line_num_coeff>
+          <line_den_coeff>1.0000003178592545e+00 -7.0685939598779128e-04 -9.4666121589855534e-04 -8.3685787022010980e-05 8.2981209794255343e-06 -3.7717059104449632e-06 -8.2287343886138163e-06 -3.1032997851654225e-06 2.9417480844834832e-05 -1.1625562268322933e-05 -4.3685547777712574e-08 5.2447080196026779e-09 3.9326972081744007e-07 1.7566356880348779e-08 3.4748170255215119e-08 -3.1256954532859471e-09 -3.0553369877376153e-08 2.6645605079031031e-09 1.9421240726056532e-07 4.1127232219316348e-09</line_den_coeff>
+          <samp_num_coeff>5.2579151377806262e-12 1.0016860121248818e+00 1.6683610572700285e-03 1.3661066411836806e-01 1.8934721952240359e-04 -9.6644186580470361e-04 -3.9218411623076396e-04 1.4983895315488444e-03 -9.3428777226338953e-04 -1.1268786387874722e-04 -9.5224674504031286e-07 4.9760506971982115e-06 1.2860838558761126e-05 -1.2374177491664563e-07 -3.3667302615695402e-06 2.3517562233618002e-05 1.5224695766572230e-06 -3.2370483325115893e-06 -6.0137445372961420e-06 -3.4961194891884890e-08</samp_num_coeff>
+          <samp_den_coeff>1.0000012232921138e+00 1.9109081404987535e-04 -2.4460203027884813e-04 1.0881997745425815e-03 -1.1358150928794820e-06 6.9314463404651619e-07 2.5711235718267633e-06 3.1183089249326816e-06 1.0436109917116351e-05 -2.3519591918044924e-06 -1.0431965582020039e-08 -2.8428874935996614e-09 7.8476511792769120e-09 -7.5851215411910158e-09 1.0384911889780086e-08 -2.7641694328954429e-08 -1.3988213384511203e-09 1.9098040118508019e-08 3.3791713548762207e-08 1.5580990023324302e-09</samp_den_coeff>
+        </calibration>
+        <reference x="415419.76513477135" y="5089526.0571938884" z="2940" yaw="0" pitch="0" roll="0" enabled="true"/>
+      </camera>
+    </cameras>
+    <markers next_id="24" next_group_id="0">
+      <marker id="0" label="point 2">
+        <reference x="415896.92499999999" y="5089906.2359999996" z="2083.6581999999999" enabled="false"/>
+      </marker>
+      <marker id="2" label="point 14">
+        <reference x="415979.815" y="5091009.6100000003" z="1990.5915500000001" enabled="true"/>
+      </marker>
+      <marker id="3" label="point 13">
+        <reference x="416334.24400000001" y="5090741.102" z="1987.7959000000001" enabled="true"/>
+      </marker>
+      <marker id="4" label="point 6">
+        <reference x="416344.34700000001" y="5090383.7580000004" z="1968.69067" enabled="true"/>
+      </marker>
+      <marker id="5" label="point 19">
+        <reference x="415331.44199999998" y="5089685.585" z="2163.4255400000002" enabled="true"/>
+      </marker>
+      <marker id="6" label="point 1">
+        <reference x="415973.89199999999" y="5090047.2319999998" z="2068.4164999999998" enabled="true"/>
+      </marker>
+      <marker id="7" label="point 3">
+        <reference x="416036.99900000001" y="5089748.8140000002" z="2056.5637200000001" enabled="true"/>
+      </marker>
+      <marker id="8" label="point 8">
+        <reference x="415965.40299999999" y="5088315.4730000002" z="2264.0317399999999" enabled="true"/>
+      </marker>
+      <marker id="9" label="point 4">
+        <reference x="416136.27000000002" y="5089417.7460000003" z="2129.9086900000002" enabled="true"/>
+      </marker>
+      <marker id="11" label="point 17">
+        <reference x="415237.755" y="5089086.5360000003" z="2245.81934" enabled="true"/>
+      </marker>
+      <marker id="12" label="point 9">
+        <reference x="415975.48800000001" y="5089020.4359999998" z="2165.5778799999998" enabled="true"/>
+      </marker>
+      <marker id="13" label="point 18">
+        <reference x="415237.78200000001" y="5089214.057" z="2211.9841299999998" enabled="false"/>
+      </marker>
+      <marker id="14" label="point 5">
+        <reference x="415980.516" y="5089465.5609999998" z="2146.2131300000001" enabled="true"/>
+      </marker>
+      <marker id="15" label="point 7">
+        <reference x="415982.89000000001" y="5088628.2819999997" z="2300.60889" enabled="true"/>
+      </marker>
+      <marker id="16" label="point 11">
+        <reference x="416118.15299999999" y="5090180.9009999996" z="2036.2332799999999" enabled="true"/>
+      </marker>
+      <marker id="17" label="point 10">
+        <reference x="415931.81400000001" y="5088913.7879999997" z="2183.7734399999999" enabled="false"/>
+      </marker>
+      <marker id="18" label="&quot;30&quot;">
+        <reference x="416681.34003862197" y="5090888.3281718502" z="1877.51892" enabled="true"/>
+      </marker>
+      <marker id="19" label="&quot;31&quot;">
+        <reference x="417246.35024239199" y="5090938.1990294801" z="1648.3587600000001" enabled="true"/>
+      </marker>
+      <marker id="21" label="&quot;33&quot;">
+        <reference x="415053.53160936199" y="5090249.9004987003" z="2264.63013" enabled="true"/>
+      </marker>
+      <marker id="22" label="&quot;34&quot;">
+        <reference x="415285.85632158298" y="5090385.46740543" z="2147.5544399999999" enabled="true"/>
+      </marker>
+      <marker id="23" label="&quot;35&quot;">
+        <reference x="415973.579721716" y="5088647.9638634101" z="2313.25317" enabled="false"/>
+      </marker>
+    </markers>
+    <transform>
+      <rotation locked="true">-1.3760012004484148e-01 -7.1195040804631970e-01 6.8861660119860912e-01 9.9048786310769366e-01 -9.8905262004705646e-02 9.5663693134518474e-02 0 6.9522972148093576e-01 7.1878761422936366e-01</rotation>
+      <translation locked="true">4.4017410833946895e+06 6.1149674220244901e+05 4.5638549742735615e+06</translation>
+      <scale locked="true">1.0000000000000000e+00</scale>
+    </transform>
+    <reference>PROJCS["WGS 84 / UTM zone 32N",GEOGCS["WGS 84",DATUM["World Geodetic System 1984 ensemble",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9102"]],AUTHORITY["EPSG","4326"]],PROJECTION["Transverse_Mercator",AUTHORITY["EPSG","9807"]],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",9],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AUTHORITY["EPSG","32632"]]</reference>
+    <region>
+      <center>1.0206670683313402e+02 9.6813000896865702e+01 -1.2695017041055344e+02</center>
+      <size>1.0020679296875000e+04 1.1937063476562500e+04 5.5935833984375004e+03</size>
+      <R>-6.1610110493930270e-01 -7.8766707958933280e-01 1.4959355178016581e-05 7.8766707919583479e-01 -6.1610110370894244e-01 4.8577007625220252e-05 -2.9046034495395885e-05 4.1711339672264539e-05 9.9999999870824618e-01</R>
+    </region>
+    <settings>
+      <property name="image_brightness" value="4"/>
+      <property name="accuracy_tiepoints" value="1"/>
+      <property name="accuracy_cameras" value="10"/>
+      <property name="accuracy_cameras_ypr" value="10"/>
+      <property name="accuracy_markers_xy" value="0.69999999999999996"/>
+      <property name="accuracy_markers_z" value="0.5"/>
+      <property name="accuracy_scalebars" value="0.001"/>
+      <property name="accuracy_projections" value="1"/>
+    </settings>
+    <meta>
+      <property name="AlignCameras/adaptive_fitting" value="false"/>
+      <property name="AlignCameras/duration" value="0.13"/>
+      <property name="AlignCameras/min_image" value="2"/>
+      <property name="AlignCameras/ram_used" value="20480"/>
+      <property name="AlignCameras/reset_alignment" value="true"/>
+      <property name="AlignCameras/subdivide_task" value="true"/>
+      <property name="Info/LastSavedDateTime" value="2022:12:23 13:13:56"/>
+      <property name="Info/LastSavedSoftwareVersion" value="1.8.4.14856"/>
+      <property name="OptimizeCameras/sigma0" value="0.258742379459816"/>
+    </meta>
+    <frames next_id="1">
+      <frame id="0">
+        <markers>
+          <marker marker_id="0">
+            <location camera_id="7" pinned="true" x="7174.88281" y="5807.81689"/>
+            <location camera_id="8" pinned="true" x="7481.93115" y="5248.56348"/>
+          </marker>
+          <marker marker_id="2">
+            <location camera_id="7" pinned="true" x="7327.81689" y="3790.02905"/>
+            <location camera_id="8" pinned="true" x="7648.5918" y="3128.13867"/>
+          </marker>
+          <marker marker_id="3">
+            <location camera_id="7" pinned="true" x="8006.36279" y="4250.31494"/>
+            <location camera_id="8" pinned="true" x="8310.36328" y="3660.51099"/>
+          </marker>
+          <marker marker_id="4">
+            <location camera_id="7" pinned="true" x="8041.59961" y="4924.30713"/>
+            <location camera_id="8" pinned="true" x="8348.94238" y="4333.85791"/>
+          </marker>
+          <marker marker_id="5">
+            <location camera_id="7" pinned="true" x="6087.91699" y="6244.59863"/>
+            <location camera_id="8" pinned="true" x="6409.36523" y="5656.59814"/>
+          </marker>
+          <marker marker_id="6">
+            <location camera_id="7" pinned="true" x="7321.80908" y="5544.2124"/>
+            <location camera_id="8" pinned="true" x="7627.17383" y="4980.89404"/>
+          </marker>
+          <marker marker_id="7">
+            <location camera_id="7" pinned="true" x="7452.83936" y="6098.36914"/>
+            <location camera_id="8" pinned="true" x="7758.22314" y="5547.9043"/>
+          </marker>
+          <marker marker_id="8">
+            <location camera_id="7" pinned="true" x="7294.58838" y="8670.35254"/>
+            <location camera_id="8" pinned="true" x="7561.15527" y="8336.93164"/>
+          </marker>
+          <marker marker_id="9">
+            <location camera_id="7" pinned="true" x="7628.45654" y="6666.84473"/>
+            <location camera_id="8" pinned="true" x="7912.56104" y="6210.63623"/>
+          </marker>
+          <marker marker_id="11">
+            <location camera_id="7" pinned="true" x="5902.59863" y="7328.47363"/>
+            <location camera_id="8" pinned="true" x="6210.03125" y="6812.97559"/>
+          </marker>
+          <marker marker_id="12">
+            <location camera_id="7" pinned="true" x="7327.51807" y="7407.56396"/>
+            <location camera_id="8" pinned="true" x="7612.34912" y="6964.4209"/>
+          </marker>
+          <marker marker_id="13">
+            <location camera_id="7" pinned="true" x="5910.18311" y="7109.92432"/>
+            <location camera_id="8" pinned="true" x="6225.15283" y="6560.93799"/>
+          </marker>
+          <marker marker_id="14">
+            <location camera_id="7" pinned="true" x="7326.32422" y="6587.23779"/>
+            <location camera_id="8" pinned="true" x="7614.99658" y="6113.64014"/>
+          </marker>
+          <marker marker_id="15">
+            <location camera_id="7" pinned="true" x="7306.61133" y="8067.57275"/>
+            <location camera_id="8" pinned="true" x="7566.04932" y="7756.99854"/>
+          </marker>
+          <marker marker_id="16">
+            <location camera_id="7" pinned="true" x="7599.5376" y="5293.74268"/>
+            <location camera_id="8" pinned="true" x="7905.89062" y="4725.11572"/>
+          </marker>
+          <marker marker_id="17">
+            <location camera_id="7" pinned="true" x="7238.81445" y="7600.95898"/>
+            <location camera_id="8" pinned="true" x="7523.41699" y="7170.66455"/>
+          </marker>
+          <marker marker_id="18">
+            <location camera_id="7" pinned="true" x="8693.41406" y="3990.28418"/>
+            <location camera_id="8" pinned="true" x="9001.58496" y="3367.98584"/>
+          </marker>
+          <marker marker_id="19">
+            <location camera_id="7" pinned="true" x="9826.81641" y="3947.95728"/>
+            <location camera_id="8" pinned="true" x="10152.0703" y="3233.54297"/>
+          </marker>
+          <marker marker_id="21">
+            <location camera_id="7" pinned="true" x="5518.15967" y="5176.83252"/>
+            <location camera_id="8" pinned="true" x="5832.45361" y="4600.8457"/>
+          </marker>
+          <marker marker_id="22">
+            <location camera_id="7" pinned="true" x="5988.54395" y="4956.36768"/>
+            <location camera_id="8" pinned="true" x="6316.11328" y="4318.8457"/>
+          </marker>
+          <marker marker_id="23">
+            <location camera_id="7" pinned="true" x="7286.34131" y="8024.31006"/>
+            <location camera_id="8" pinned="true" x="7543.35986" y="7722.22998"/>
+          </marker>
+        </markers>
+      </frame>
+    </frames>
+  </chunk>
+</document>
